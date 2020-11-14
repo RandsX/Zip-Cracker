@@ -2,6 +2,14 @@
 
 > Simple tool to crack zip file passwords
 
+<p align="center">
+
+![Terkey](https://github-readme-stats.vercel.app/api/pin?username=RandsX&repo=Terkey&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![WpBf](https://github-readme-stats.vercel.app/api/pin?username=22XploiterCrew-Team&repo=WordPress-Brute-Force&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Shell Backdoor](https://github-readme-stats.vercel.app/api/pin?username=22XploiterCrew-Team&repo=Shell-Backdoor&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+</p>
+
 ```
   ____  _        _____             __
  /_  / (_)__    / ___/______ _____/ /__
