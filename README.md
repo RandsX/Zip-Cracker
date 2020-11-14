@@ -52,3 +52,6 @@ Password : pw
 - Easy to use
 - Fast process
 - Cool
+
+## Deficiency
+- Messy English
